@@ -1,5 +1,6 @@
 # 경고문
 - SSL 무단 사용 하지마세요 사용 하실꺼면 무료 SSL을 찾으십시오
+- 본 레포지토리는 작업자 성재현님이 제공해주셨습니다.
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
