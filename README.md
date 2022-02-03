@@ -1,3 +1,5 @@
+# 필독
+- 안내 드립니다. 현재 음악끄투는 루성게임즈(성재현,루크)로 보유중 이므로서 공동총괄인점을 안내드립니다.
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
